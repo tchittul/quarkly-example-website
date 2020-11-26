@@ -213,7 +213,7 @@ export default (() => {
 				lg-font="--lead"
 				sm-font="--base"
 			>
-				We’re a group of creatives who've built a business to make the world a better place.
+				We’re a group of UT Austin undergraduates passionate about the financial services industry
 			</Text>
 		</Section>
 		<Section
@@ -253,7 +253,7 @@ export default (() => {
 				lg-margin="0px 0px 42px 0px"
 				md-font="--headline3"
 			>
-				Our World-Class Team
+				Executive Team
 			</Text>
 			<Stack
 				lg-align-items="flex-start"
@@ -612,7 +612,7 @@ export default (() => {
 						sm-font="--headline2"
 						sm-margin="0px 12px 0px 0px"
 					>
-						51
+						25
 					</Text>
 					<Text
 						font="--lead"
@@ -623,7 +623,7 @@ export default (() => {
 						text-align="left"
 						sm-font="--lead"
 					>
-						Total employees
+						Total Members & Growing
 					</Text>
 					{"    "}
 				</StackItem>
@@ -642,30 +642,6 @@ export default (() => {
 						sm-flex-direction="row"
 						sm-align-items="flex-end"
 					/>
-					<Text
-						font="--headline1"
-						margin="0px 0px 0px 0px"
-						color="--dark"
-						lg-text-align="center"
-						text-align="left"
-						lg-font="--headline2"
-						sm-font="--headline2"
-						sm-margin="0px 12px 0px 0px"
-					>
-						10
-					</Text>
-					<Text
-						font="--lead"
-						margin="0px 0px 0px 0px"
-						display="inline-block"
-						opacity="0.6"
-						color="--darkL2"
-						lg-text-align="center"
-						text-align="left"
-						sm-font="--lead"
-					>
-						designers
-					</Text>
 					{"    "}
 				</StackItem>
 				<StackItem
@@ -683,31 +659,6 @@ export default (() => {
 						sm-flex-direction="row"
 						sm-align-items="flex-end"
 					/>
-					<Text
-						font="--headline1"
-						margin="0px 0px 0px 0px"
-						display="inline-block"
-						color="--dark"
-						lg-text-align="center"
-						text-align="left"
-						lg-font="--headline2"
-						sm-font="--headline2"
-						sm-margin="0px 12px 0px 0px"
-					>
-						25
-					</Text>
-					<Text
-						font="--lead"
-						margin="0px 0px 0px 0px"
-						display="inline-block"
-						opacity="0.6"
-						color="--darkL2"
-						lg-text-align="center"
-						text-align="left"
-						sm-font="--lead"
-					>
-						developers
-					</Text>
 					{"    "}
 				</StackItem>
 				<StackItem
@@ -736,7 +687,7 @@ export default (() => {
 						sm-font="--headline2"
 						sm-margin="0px 12px 0px 0px"
 					>
-						12
+						06
 					</Text>
 					<Text
 						font="--lead"
@@ -748,7 +699,7 @@ export default (() => {
 						text-align="left"
 						sm-font="--lead"
 					>
-						support agents
+						Executive Team Members
 					</Text>
 					{"    "}
 				</StackItem>
@@ -778,7 +729,7 @@ export default (() => {
 						sm-font="--headline2"
 						sm-margin="0px 12px 0px 0px"
 					>
-						04
+						19
 					</Text>
 					<Text
 						font="--lead"
@@ -790,7 +741,7 @@ export default (() => {
 						text-align="left"
 						sm-font="--lead"
 					>
-						managers
+						General Members
 					</Text>
 					{"    "}
 				</StackItem>
