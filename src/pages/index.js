@@ -161,7 +161,7 @@ export default (() => {
 				lg-text-align="center"
 				lg-font="--headline2"
 			>
-				Make a Difference.
+				Texas Private Equity
 			</Text>
 			<Text
 				font="--lead"
@@ -172,7 +172,7 @@ export default (() => {
 				opacity="0.7"
 				md-text-align="center"
 			>
-				Supercharge your personal and professional success with a beautifully crafted website.
+				The premier undergraduate organization at UT Austin on Private Equity
 			</Text>
 			<Link
 				href="/about"
@@ -232,7 +232,7 @@ export default (() => {
 				lg-font="--lead"
 				sm-font="--base"
 			>
-				We empower creators to do their best work while maintaining our uncompromising values while we grow.
+				We help UT Austin students learn about the Private Equity industry and prepare them to enter the field
 			</Text>
 		</Section>
 		<Section
@@ -301,7 +301,7 @@ export default (() => {
 						lg-margin="0px 0px 18px 0px"
 						sm-font="--base"
 					>
-						It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something bigger. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.
+						Texas Private Equity was started by a group of undergraduates at the University of Texas at Austin who saw a need for education around the Private Equity Field, a field most undergraduates do not get to learn about
 					</Text>
 					<Link
 						href="/about"
@@ -401,7 +401,7 @@ export default (() => {
 						sm-font="--headline3"
 						md-font="--headline3"
 					>
-						Why Choose Us
+						What We Do
 					</Text>
 					<Text
 						font="--lead"
@@ -413,7 +413,7 @@ export default (() => {
 						lg-margin="0px 0px 18px 0px"
 						sm-font="--base"
 					>
-						It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something bigger. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.
+						We educate our members of financial fundamentals as well as information about how to enter the Private Equity field and current trends/news.
 					</Text>
 					<Link
 						href="/team"
@@ -477,7 +477,7 @@ export default (() => {
 						sm-font="--headline3"
 						md-font="--headline3"
 					>
-						Where We Work
+						Why Join Us
 					</Text>
 					<Text
 						font="--lead"
@@ -488,7 +488,7 @@ export default (() => {
 						lg-margin="0px 0px 18px 0px"
 						sm-font="--base"
 					>
-						It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something bigger. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.
+						We provide a community for undergraduates interested in exploring the Private Equity industry. Come network with your peers and join a team with the same goals as you.
 					</Text>
 					<Link
 						href="/contact"

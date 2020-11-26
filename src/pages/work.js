@@ -263,7 +263,7 @@ export default (() => {
 						md-margin="0px 0px 16px 0px"
 						md-font="--headline3"
 					>
-						Project #1
+						General Meeting
 					</Text>
 					<Text
 						font="--lead"
@@ -357,7 +357,7 @@ export default (() => {
 						md-margin="0px 0px 16px 0px"
 						md-font="--headline3"
 					>
-						Project #2
+						Newsletter
 					</Text>
 					<Text
 						font="--lead"
